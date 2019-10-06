@@ -2,6 +2,8 @@
 
 Developed by Ashraff Hathibelagal
 
+![](https://raw.githubusercontent.com/hathi11/CodeTest/master/picC.png)
+
 ## Running the app
 
 1. Clone the repository
