@@ -31,6 +31,6 @@ react-native run-android
 
 ## Libraries used
 
-React Native Elements - For the slider widget
-React Navigation - For routing
+- React Native Elements - For the slider widget
+- React Navigation - For routing
 
