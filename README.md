@@ -1,5 +1,7 @@
 # Code Test
 
+Developed by Ashraff Hathibelagal
+
 ## Running the app
 
 1. Clone the repository
